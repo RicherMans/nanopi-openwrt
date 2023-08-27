@@ -76,8 +76,6 @@ CONFIG_PACKAGE_shadow-utils=y
 CONFIG_PACKAGE_screen=y
 CONFIG_PACKAGE_tmux=y
 
-CONFIG_PACKAGE_openssh-sftp-client=y
-CONFIG_PACKAGE_openssh-sftp-server=y
 CONFIG_PACKAGE_rsync=y
 CONFIG_PACKAGE_rsyncd=y
 
